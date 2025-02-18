@@ -16,17 +16,17 @@ Amount: Transaction amount.
 
 Class: Target variable (0 for non-fraudulent, 1 for fraudulent transactions).
 
-Dataset Link
+### Dataset Link
 
-Download the dataset here
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
-Dependencies
+### Dependencies
 
 To run this project, install the following Python libraries:
 
-pip install numpy pandas matplotlib seaborn scikit-learn xgboost
+pip install numpy ,pandas ,matplotlib ,seaborn ,scikit-learn ,xgboost
 
-Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 Checked for missing values and duplicates.
 
@@ -38,7 +38,7 @@ Analyzed categorical features.
 
 Conducted multivariate analysis using scatter plots and correlation heatmaps.
 
-Data Preprocessing
+## Data Preprocessing
 
 Outliers detected and handled using the IQR method.
 
@@ -48,7 +48,7 @@ Dataset split into training and testing sets (80%-20%).
 
 Machine Learning Models
 
-The following models were trained and evaluated:
+### The following models were trained and evaluated:
 
 Logistic Regression
 
@@ -66,7 +66,7 @@ K-Nearest Neighbors (KNN)
 
 Naive Bayes (BernoulliNB)
 
-Hyperparameter Tuning
+### Hyperparameter Tuning
 
 Used GridSearchCV and RandomizedSearchCV to optimize the following models:
 
@@ -84,7 +84,7 @@ Support Vector Machine
 
 K-Nearest Neighbors
 
-Model Evaluation
+## Model Evaluation
 
 Each model was evaluated using:
 
@@ -96,11 +96,11 @@ Classification Report (Precision, Recall, F1-Score)
 
 ROC-AUC Score & Curve
 
-Results Summary
+## Results Summary
 
 The models' performance was compared based on accuracy and ROC-AUC score. The best-performing model was selected for deployment.
 
-Future Improvements
+## Future Improvements
 
 Implement deep learning models such as Neural Networks.
 
@@ -108,7 +108,7 @@ Use advanced anomaly detection techniques.
 
 Experiment with feature engineering to improve classification performance.
 
-Usage
+## Usage
 
 Run the following command to execute the fraud detection script:
 
@@ -116,11 +116,11 @@ python fraud_detection.py
 
 This will train models and display evaluation metrics.
 
-Project Deployment
+## Project Deployment
 
-View the deployed project here
+https://creditcardfrauddetectiongit-kh76ejarr8mlppmgtwdgex.streamlit.app/
 
-Author
+## Author
 
 Pranav Atkane
 
