@@ -120,6 +120,23 @@ This will train models and display evaluation metrics.
 
 https://creditcardfrauddetectiongit-kh76ejarr8mlppmgtwdgex.streamlit.app/
 
+## Screenshots
+
+![{E59D3844-0FB6-4E83-923A-0AC416BBE6C8}](https://github.com/user-attachments/assets/fefe6a1b-03cd-4e81-9045-4ec4b56fb4d6)
+
+![{05A05CEC-CD65-4447-812A-E69121EEFBC9}](https://github.com/user-attachments/assets/f671873e-9dde-481e-9043-ec1c4c43edf4)
+
+![{568569E2-733F-4D28-B8D1-5C0E467A7B72}](https://github.com/user-attachments/assets/c174a4ae-2441-4811-9d75-03f9275a0a87)
+
+![{AB87C8BA-9D9A-4E4A-BE03-B9CF40010B20}](https://github.com/user-attachments/assets/7f9a64d7-8a43-4e8b-847e-b00e87a1ab4a)
+
+![{D243E5BC-A580-4A8C-87D7-D4FCEBF6A7F5}](https://github.com/user-attachments/assets/7e01167d-00b0-47a9-aaf1-301433776e33)
+
+
+
+
+
+
 ## Author
 
 Pranav Atkane
